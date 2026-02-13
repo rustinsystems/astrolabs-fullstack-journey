@@ -46,6 +46,21 @@ The skills refined in this repository were immediately applied to architect and 
 
 ## 🎓 Academic Verification
 
-This work was completed as part of the **Astrolabs Full-Stack Web Development** certification.
-* **Student ID:** Shahied Rustin
-* **Verification:** [Link to Astrolabs or Certificate if available]
+This work was completed as part of the **Astrolabs Full-Stack Web Development for Coding and Computer Science Bootcamp** certification.
+* **Student Name:** Shahied Rustin
+* **Certification:**
+
+---
+
+## ⚖️ Disclaimer & Attribution
+
+This repository is a compilation of educational projects developed during the **Astrolabs Full-Stack Web Development Bootcamp**.
+
+* **Purpose:** The code herein is intended for educational and portfolio demonstration purposes.
+* **Curriculum:** Some logic and asset structures correspond to assignment briefs and starter templates provided by Astrolabs.
+* **Open Source Study:** To master advanced concepts, this monorepo includes analyzed forks and experimental implementations of open-source projects, including:
+    * **[leerob.io](https://github.com/leerob/leerob.io):** Studied for Next.js best practices and Vercel deployment patterns.
+    * **Framer Motion:** Experimental implementations for UI animation study.
+    * **Material UI (MUI):** Component library experiments for React UI design.
+
+*All third-party code retains its original licensing and copyright where applicable.*
