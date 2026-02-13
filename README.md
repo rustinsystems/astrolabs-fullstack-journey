@@ -48,7 +48,8 @@ The skills refined in this repository were immediately applied to architect and 
 
 This work was completed as part of the **Astrolabs Full-Stack Web Development for Coding and Computer Science Bootcamp** certification.
 * **Student Name:** Shahied Rustin
-* **Certification:**
+* **Certification:** See full version on [linkedin](https://www.linkedin.com/in/shahied-rustin/)
+![Certificate](https://github.com/rustinsystems/astrolabs-fullstack-journey/blob/main/AstrolabsCertificateShahied.png?raw=true)
 
 ---
 
